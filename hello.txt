@@ -3,3 +3,5 @@ Practising the use of VS code
 I am adding more text here
 
 Updating from remote
+
+creating a remote conflict here
